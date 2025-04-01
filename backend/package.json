@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "knex": "^3.1.0",
-    "pg": "^8.14.1"
-=======
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
@@ -17,9 +12,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
+    "knex": "^3.1.0",
     "express": "^4.21.2",
     "pg": "^8.14.1",
     "pg-hstore": "^2.3.4"
->>>>>>> 05bdf84afd4d9ef73165937388d5f0c8a18405c9
   }
 }
